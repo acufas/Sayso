@@ -1,0 +1,29 @@
+{
+  "name": "sayso",
+  "version": "0.0.1",
+  "description": "A Reddit clone written in NodeJS.",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "reddit",
+    "web",
+    "node",
+    "javascript",
+    "html",
+    "css",
+    "nodejs",
+    "web",
+    "application"
+  ],
+  "author": "Aaron Simpson",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "sqlite3": "^5.1.4",
+    "uuid": "^9.0.0"
+  }
+}
